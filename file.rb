@@ -3,7 +3,7 @@ class Student
     puts "Mason rules."
   end
 
-  def create_worst_student
+  def create_sorta_best_student
     return "Cruz"
   end
 end
