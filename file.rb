@@ -1,6 +1,6 @@
 class Student
   def initialize
-    puts "Mason rules."
+    puts "Mason ruleshhhhh."
   end
 
   def create_sorta_best_student
