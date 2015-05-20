@@ -1,4 +1,6 @@
-class Student
+require 'active_record'
+
+class Student < ActiveRecord::Base
   def initialize
     puts "Mason ruleshhhhh."
   end
